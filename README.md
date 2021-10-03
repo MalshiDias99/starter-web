@@ -8,6 +8,10 @@ Sample website with plenty of files for demos
 
 ## deplolyment
 
+##How to contribute
+
+please fork this repository and then issue pull requests for review.
+
 ##test
 
 ##test
