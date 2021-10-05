@@ -17,3 +17,5 @@ please fork this repository and then issue pull requests for review.
 ##test
 
 add cpoyright notice
+
+all rights reserved
